@@ -1,0 +1,64 @@
+{
+    "creditcards": [
+        {
+            "id": 1,
+            "cardName": "Bank of America - Platinum Card",
+            "bankName": "Bank of America",
+            "description": "Bank of America offers customers a variety of options",
+            "maxCredit": 8000,
+            "active": true,
+            "annualFee": 0,
+            "interestRate": 13.5,
+            "introOffer": 200,
+            "recommendedCreditScore": "600-800",
+            "numberOfApplications": 40,
+            "createdDate": "20-08-2023",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "id": 2,
+            "cardName": "Chase - Platinum Card",
+            "bankName": "Chase Bank",
+            "description": "Chase Bank offers customers a variety of options",
+            "maxCredit": 8000,
+            "active": true,
+            "annualFee": 0,
+            "interestRate": 13.5,
+            "introOffer": 200,
+            "recommendedCreditScore": "600-800",
+            "numberOfApplications": 40,
+            "createdDate": "20-08-2023",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "id": 3,
+            "cardName": "Swedbank - Platinum Card",
+            "bankName": "Swedbank",
+            "description": "Swedbank offers customers a variety of options",
+            "maxCredit": 8000,
+            "active": true,
+            "annualFee": 0,
+            "interestRate": 13.5,
+            "introOffer": 200,
+            "recommendedCreditScore": "600-800",
+            "numberOfApplications": 40,
+            "createdDate": "20-08-2023",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        },
+        {
+            "id": 4,
+            "cardName": "SEB - Platinum Card",
+            "bankName": "SEB",
+            "description": "SEB offers customers a variety of options",
+            "maxCredit": 8000,
+            "active": true,
+            "annualFee": 0,
+            "interestRate": 13.5,
+            "introOffer": 200,
+            "recommendedCreditScore": "600-800",
+            "numberOfApplications": 40,
+            "createdDate": "20-08-2023",
+            "termsAndConditions": "The following conditions are applicable for this card"
+        }
+    ]
+}
